@@ -1,14 +1,14 @@
 ### Hi there 👋, This is Boishakhi Ghosh Mukta
-#### I am a Web Developer
-![I am a Web Developer](https://media.licdn.com/dms/image/D5616AQEkGgCWXRVW2Q/profile-displaybackgroundimage-shrink_200_800/0/1674485874284?e=1715817600&v=beta&t=oJbvGK77yL5kg7B68ZrlLY0pVniXt9RYXWZIZI9i2m0)
+#### A Web Developer
+![A Web Developer](https://media.licdn.com/dms/image/D5616AQEkGgCWXRVW2Q/profile-displaybackgroundimage-shrink_200_800/0/1674485874284?e=1715817600&v=beta&t=oJbvGK77yL5kg7B68ZrlLY0pVniXt9RYXWZIZI9i2m0)
 
-Second year master's student, future software Software Engineer, 4 months of experience as Quality Assurance Engineer as an internee. My passion as a Software Engineer bring me at Østfold University where I am working as a masters student and different research projects.
+I am a Fullstack Developer with a great interest in Information Tecnology and Software Industry.Looking forward to joining a creative team. Ability to learn and implement new technologies quickly. Love to take challenges. My skills include HTML5, CSS3, Javascript, jQery React, Node Js, MySQL, PostgreSQL which i have learned through Udemy online paid courses.
 
-Skills: NODE JS/ REACT / JS / HTML / CSS
+Skills: NODE JS/ REACT / JAVASCRIPT / HTML / CSS
 
-- 🔭 I’m currently working on Østfold University College as a student 
+- 🔭 I’m currently working on my master`s thesis on Østfold University College as a student 
 - 🌱 I’m currently learning Node JS 
-- 👯 I’m looking to collaborate on Stratup Company 
+- 👯 I’m looking to collaborate on Software Development Team 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: bgmukta11@gmail.com 
 
