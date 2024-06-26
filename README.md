@@ -5,10 +5,10 @@
 I am a Fullstack Developer with a great interest in Information Tecnology and Software Industry.Looking forward to joining a creative team. Ability to learn and implement new technologies quickly. Love to take challenges. My skills include HTML5, CSS3, Javascript, jQery React, Node Js, MySQL, PostgreSQL which i have learned through Udemy online paid courses.
 Visit my website: https://boiskhakhimukta-portfolio.netlify.app/
 
-Skills: NODE JS/ REACT / JAVASCRIPT / HTML / CSS
+Skills: NODE JS/ REACT / JAVASCRIPT / HTML / CSS / C#
 
 - 🔭 I’m currently working on my master`s thesis on Østfold University College as a student 
-- 🌱 I’m currently learning Node JS 
+- 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on Software Development Team 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: bgmukta11@gmail.com 
