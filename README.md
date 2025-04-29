@@ -1,11 +1,11 @@
 ### Hi there 👋, This is Boishakhi Ghosh Mukta
-#### A Web Developer
+#### FrontEnd Developer
 ![A Web Developer](https://media.licdn.com/dms/image/D5616AQEkGgCWXRVW2Q/profile-displaybackgroundimage-shrink_200_800/0/1674485874284?e=1715817600&v=beta&t=oJbvGK77yL5kg7B68ZrlLY0pVniXt9RYXWZIZI9i2m0)
 
-I am a Fullstack Developer with a great interest in Information Tecnology and Software Industry.Looking forward to joining a creative team. Ability to learn and implement new technologies quickly. Love to take challenges. My skills include HTML5, CSS3, Javascript, jQery React, Node Js, MySQL, PostgreSQL which i have learned through Udemy online paid courses.
+I am a FrontEnd Developer with a great interest in Information Tecnology and Software Industry. Looking forward to joining a creative team. Ability to learn and implement new technologies quickly. Love to take challenges. My skills include HTML5, CSS3, Javascript, jQery, React, MySQL, PostgreSQL which i have learned through Udemy online paid courses.
 Visit my website: https://boiskhakhimukta-portfolio.netlify.app/
 
-Skills: NODE JS/ REACT / JAVASCRIPT / HTML / CSS / C#
+Skills: REACT / JAVASCRIPT / HTML / CSS / C#
 
 - 🔭 I’m currently working on my master`s thesis on Østfold University College as a student 
 - 🌱 I’m currently learning React 
