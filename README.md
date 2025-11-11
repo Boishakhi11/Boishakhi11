@@ -7,7 +7,7 @@ Visit my website: https://boiskhakhimukta-portfolio.netlify.app/
 
 Skills: REACT / JAVASCRIPT / HTML / CSS / C#
 
-- 🔭 I’m currently working on my master`s thesis on Østfold University College as a student 
+- 🔭 I’m currently working on several frontend projects. 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on Software Development Team 
 - 💬 Ask me about Web Development 
