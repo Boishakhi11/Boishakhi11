@@ -2,7 +2,7 @@
 I'm Boishakhi Ghosh Mukta  
 ### Frontend Developer | Computer Science Graduate
 
-<img src="[https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg](https://i.pinimg.com/736x/81/0d/56/810d5634bb73f3e2151331092612bef3.jpg)?semt=ais_hybrid&w=740&q=80"
+<img src="[https://i.pinimg.com/736x/81/0d/56/810d5634bb73f3e2151331092612bef3.jpg]"
      alt="Cover Image"
      width="100%"
      height="220"/>
