@@ -1,13 +1,10 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  
 I'm Boishakhi Ghosh Mukta  
 ### Frontend Developer | Computer Science Graduate
-
-<img src="https://st2.depositphotos.com/1002944/44625/v/450/depositphotos_446250734-stock-illustration-developer-project-engineer-programming-software.jpg?utm_source=chatgpt.com"
-     alt="Cover Image"
-     width="100%"
-     height="290"/>
-
-
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-3817229.gif"
+     alt="Female Web Developer Coding"
+     style="width:100%; height:260px; object-fit:cover;" />
+     
 ---
 
 ### 👩‍💻 About Me
@@ -72,8 +69,8 @@ Currently based in Norway and open to collaboration and professional opportuniti
            alt="Top Languages"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Boishakhi11"
-           alt="GitHub Streak"/>
+      <img src="https://streak-stats.demolab.com?user=Boishakhi11&timezone=Europe/Oslo&cache_seconds=1800"
+     alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
