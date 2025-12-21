@@ -4,6 +4,7 @@
 
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <p><strong>Boishakhi Ghosh Mukta</strong></p>
+![Profile Views](https://komarev.com/ghpvc/?username=Boishakhi11&label=Profile%20Views&color=555555&style=flat)
 <p><strong>Frontend Developer | Computer Science Graduate</strong></p>
 
 <p>
