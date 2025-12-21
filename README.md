@@ -1,17 +1,18 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  
-I'm Boishakhi Ghosh Mukta  
-### Frontend Developer | Computer Science Graduate
 
-### 👩‍💻 About Me
-Frontend Developer with a background in Computer Science and a strong interest in building usable, accessible, and reliable web applications.  
-I value clean code, clear communication, and continuous learning.  
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<p><strong>Boishakhi Ghosh Mukta</strong></p>
+<p><strong>Frontend Developer | Computer Science Graduate</strong></p>
+
+<p>
+Frontend Developer with a background in Computer Science and a strong interest in building usable, accessible, and reliable web applications.<br/>
+I value clean code, clear communication, and continuous learning.<br/>
 Currently based in Norway and open to collaboration and professional opportunities.
+</p>
 
 </td>
-
   <td width="35%" align="right">
     <img src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-3817229.gif"
          alt="Female Web Developer Coding"
@@ -78,7 +79,7 @@ Currently based in Norway and open to collaboration and professional opportuniti
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=Boishakhi11&timezone=Europe/Oslo&cache_seconds=1800"
-     alt="GitHub Streak"/>
+           alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
