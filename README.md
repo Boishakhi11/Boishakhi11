@@ -3,10 +3,10 @@
     <td width="65%" valign="top">
 
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<p><strong>Boishakhi Ghosh Mukta</strong></p>
-<img src="https://komarev.com/ghpvc/?username=Boishakhi11&label=Profile%20Views&color=555555&style=flat"
-     alt="Profile Views" />
-<p><strong>Frontend Developer | Computer Science Graduate</strong></p>
+<p style="margin:4px 0;"><strong>Boishakhi Ghosh Mukta</strong></p>
+<p style="margin:4px 0; color:#555;">
+  Frontend Developer | Computer Science Graduate
+</p>
 
 <p>
 Frontend Developer with a background in Computer Science and a strong interest in building usable, accessible, and reliable web applications.<br/>
