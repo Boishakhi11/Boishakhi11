@@ -1,16 +1,24 @@
+<table>
+  <tr>
+    <td width="65%" valign="top">
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  
 I'm Boishakhi Ghosh Mukta  
 ### Frontend Developer | Computer Science Graduate
-<img src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-3817229.gif"
-     alt="Female Web Developer Coding"
-     style="width:100%; height:260px; object-fit:cover;" />
-     
----
 
 ### 👩‍💻 About Me
 Frontend Developer with a background in Computer Science and a strong interest in building usable, accessible, and reliable web applications.  
 I value clean code, clear communication, and continuous learning.  
 Currently based in Norway and open to collaboration and professional opportunities.
+
+</td>
+
+  <td width="35%" align="right">
+    <img src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-3817229.gif"
+         alt="Female Web Developer Coding"
+         style="width:100%; max-width:300px; height:auto; object-fit:contain;" />
+  </td>
+  </tr>
+</table>
 
 ---
 
