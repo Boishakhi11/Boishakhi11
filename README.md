@@ -2,10 +2,11 @@
 I'm Boishakhi Ghosh Mukta  
 ### Frontend Developer | Computer Science Graduate
 
-<img src="[https://i.pinimg.com/736x/81/0d/56/810d5634bb73f3e2151331092612bef3.jpg]"
+<img src="https://i.pinimg.com/736x/81/0d/56/810d5634bb73f3e2151331092612bef3.jpg"
      alt="Cover Image"
      width="100%"
-     height="220"/>
+     height="full"/>
+
 
 ---
 
