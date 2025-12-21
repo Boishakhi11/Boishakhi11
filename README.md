@@ -13,7 +13,7 @@ Currently based in Norway and open to collaboration and professional opportuniti
 </p>
 
 </td>
-  <td width="35%" align="right">
+  <td width="40%" align="right">
     <img src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-3817229.gif"
          alt="Female Web Developer Coding"
          style="width:100%; max-width:300px; height:auto; object-fit:contain;" />
@@ -26,7 +26,7 @@ Currently based in Norway and open to collaboration and professional opportuniti
 ### 🛠️ Technical Skills
 
 **Frontend**
-- HTML5, CSS3, JavaScript, Bootsrap, Tailwind CSS
+- HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
 - React
 - Basic Next.js
 - Responsive UI development
@@ -38,7 +38,7 @@ Currently based in Norway and open to collaboration and professional opportuniti
 **Tools**
 - Git & GitHub
 - Postman
-- Jira, Redimine
+- Jira, Redmine
 - Visual Studio Code
 
 ---
@@ -78,7 +78,7 @@ Currently based in Norway and open to collaboration and professional opportuniti
            alt="Top Languages"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Boishakhi11&timezone=Europe/Oslo&cache_seconds=1800"
+        <img src="https://streak-stats.demolab.com?user=Boishakhi11"
            alt="GitHub Streak"/>
     </td>
   </tr>
