@@ -1,7 +1,11 @@
-## Hi there 👋🤝 Boishakhi Ghosh Mukta Here
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  
+I'm Boishakhi Ghosh Mukta  
 ### Frontend Developer | Computer Science Graduate
 
-![Cover Image](https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?semt=ais_hybrid&w=740&q=80)
+<img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?semt=ais_hybrid&w=740&q=80"
+     alt="Cover Image"
+     width="100%"
+     height="220"/>
 
 ---
 
@@ -48,7 +52,7 @@ Currently based in Norway and open to collaboration and professional opportuniti
 ---
 
 ### 🌐 Portfolio
-🔗 [https://boishakhi11.github.io/my-digital-portfolio/]
+🔗 https://boishakhi11.github.io/my-digital-portfolio/
 
 ---
 
@@ -59,5 +63,16 @@ Currently based in Norway and open to collaboration and professional opportuniti
 ---
 
 ### 📊 GitHub Activity
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boishakhi11&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=Boishakhi11)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boishakhi11&layout=compact"
+           alt="Top Languages"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Boishakhi11"
+           alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
