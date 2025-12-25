@@ -76,10 +76,6 @@ Currently based in Norway and open to collaboration and professional opportuniti
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boishakhi11&layout=compact"
-           alt="Top Languages"/>
-    </td>
-    <td>
         <img src="https://streak-stats.demolab.com?user=Boishakhi11"
            alt="GitHub Streak"/>
     </td>
