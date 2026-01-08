@@ -56,5 +56,14 @@ I enjoy translating design ideas into responsive, usable applications and contin
 
 ---
 
-## 📊 GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=Boishakhi11&cache_seconds=86400)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Boishakhi11&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boishakhi11&layout=compact&theme=default&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Boishakhi11&hide_border=true" />
+</p>
+
