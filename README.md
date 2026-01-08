@@ -2,82 +2,59 @@
   <tr>
     <td width="65%" valign="top">
 
-<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<p style="margin:4px 0;"><strong>Boishakhi Ghosh Mukta</strong></p>
-<p style="margin:4px 0; color:#555;">
-  Frontend Developer | Computer Science Graduate
-</p>
+## Hi there 👋
 
-<p>
-Frontend Developer with a background in Computer Science and a strong interest in building usable, accessible, and reliable web applications.<br/>
-I value clean code, clear communication, and continuous learning.<br/>
-Currently based in Norway and open to collaboration and professional opportunities.
-</p>
+**Boishakhi Ghosh Mukta**  
+Frontend Developer | React • JavaScript • Tailwind CSS | UX-focused  
+📍 Norway | Open to Frontend Developer & QA Engineer roles 🇳🇴
+
+I’m a Frontend Developer with a Computer Science background and a strong interest in building clean, accessible, and user-friendly web interfaces.  
+I enjoy translating design ideas into responsive, usable applications and continuously improving my skills through hands-on projects.
 
 </td>
-  <td width="40%" align="right">
-    <img src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-3817229.gif"
-         alt="Female Web Developer Coding"
-         style="width:100%; max-width:300px; height:auto; object-fit:contain;" />
-  </td>
+<td width="35%" align="right">
+  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-3817229.gif"
+       width="260"
+       alt="Frontend Developer Animation" />
+</td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Technical Skills
-
-**Frontend**
-- HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
-- React
-- Basic Next.js
-- Responsive UI development
-
-**Backend & Databases**
-- C#
-- MySQL, PostgreSQL
-
-**Tools**
-- Git & GitHub
-- Postman
-- Jira, Redmine
-- Visual Studio Code
+## 🛠️ Tech Stack
+- **Frontend:** JavaScript (ES6+), React, HTML5, CSS3, Bootstrap
+- **APIs & Tools:** REST APIs, Axios
+- **Version Control:** Git, GitHub
+- **UX & QA:** Usability principles, basic testing practices
 
 ---
 
-### 🧪 Software Quality Awareness
-- Manual testing fundamentals
-- Writing test cases
-- Bug reporting and documentation
-- Focus on usability and user experience
+## 🎯 Experience & Interests
+- Developed a **Gamified Learning Management System (LMS)** with role-based access (Admin, Teacher, Student)
+- Implemented features such as assignments, attendance, and gamification (points & leaderboard)
+- Strong interest in **frontend development, usability testing, and software quality assurance**
+- Academic background in **Interaction Design & Human-Computer Interaction (HCI)**
 
 ---
 
-### 🌱 Currently
-- Learning **Next.js** and **TypeScript**
-- Improving code quality and testing practices
-- Looking for **Frontend / QA-oriented roles**
+## 🌍 Availability
+- 📍 Based in **Norway**
+- 💼 Actively seeking **Frontend Developer** or **QA Engineer** opportunities
+- 🤝 Open to collaboration and open-source contributions
 
 ---
 
-### 🌐 Portfolio
-🔗 https://boishakhi11.github.io/my-digital-portfolio/
+## 🌐 Portfolio
+🔗 **https://boishakhi11.github.io/my-digital-portfolio/**
 
 ---
 
-### 📫 Contact
-- 📧 Email: bgmukta11@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/boishakhimukta/
+## 📫 Contact
+- 📧 Email: **bgmukta11@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/boishakhimukta/**
 
 ---
 
-### 📊 GitHub Activity
-
-<table>
-  <tr>
-    <td>
-        <img src="https://streak-stats.demolab.com?user=Boishakhi11"
-           alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=Boishakhi11&cache_seconds=86400)
