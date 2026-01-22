@@ -8,7 +8,7 @@
 Frontend Developer | React • JavaScript • Tailwind CSS | UX-focused  
 📍 Norway | Open to Frontend Developer & QA Engineer roles 🇳🇴
 
-I’m a Frontend Developer with a Computer Science background and a strong interest in building clean, accessible, and user-friendly web interfaces.  
+I’m a Software Developer with a Computer Science background and a strong interest in building clean, accessible, and user-friendly web interfaces.  
 I enjoy translating design ideas into responsive, usable applications and continuously improving my skills through hands-on projects.
 
 </td>
@@ -23,7 +23,7 @@ I enjoy translating design ideas into responsive, usable applications and contin
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** JavaScript (ES6+), React, HTML5, CSS3, Bootstrap
+- **Frontend:** JavaScript (ES6+), React, HTML5, CSS3, Bootstrap, Tailwind Css, Shadcn
 - **APIs & Tools:** REST APIs, Axios
 - **Version Control:** Git, GitHub
 - **UX & QA:** Usability principles, basic testing practices
