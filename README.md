@@ -31,8 +31,8 @@ I enjoy translating design ideas into responsive, usable applications and contin
 ---
 
 ## 🎯 Experience & Interests
-- Developed a **Gamified Learning Management System (LMS)** with role-based access (Admin, Teacher, Student)
-- Implemented features such as assignments, attendance, and gamification (points & leaderboard)
+- Currently developing a **Gamified Learning Management System (LMS)** with role-based access (Admin, Teacher, Student)
+- Features such as assignments, attendance, and gamification will be implemented(points & leaderboard)
 - Strong interest in **frontend development, usability testing, and software quality assurance**
 - Academic background in **Interaction Design & Human-Computer Interaction (HCI)**
 
