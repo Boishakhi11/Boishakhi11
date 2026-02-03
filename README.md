@@ -40,7 +40,7 @@ I enjoy translating design ideas into responsive, usable applications and contin
 
 ## 🌍 Availability
 - 📍 Based in **Norway**
-- 💼 Actively seeking **Frontend Developer** or **QA Engineer** opportunities
+- 💼 Actively seeking **Frontend Developer** or **Software Engineer** opportunities
 - 🤝 Open to collaboration and open-source contributions
 
 ---
