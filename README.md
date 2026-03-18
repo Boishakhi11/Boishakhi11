@@ -6,10 +6,10 @@
 
 **Boishakhi Ghosh Mukta**  
 Software Developer | React • JavaScript • Node.js . Express.js . Tailwind CSS | Software Testing
-📍 Norway | Open to Frontend Developer & QA Engineer roles 🇳🇴
+📍 Norway | Open to Frontend Developer & Software Engineer roles 🇳🇴
 
-I’m a Software Developer with a Computer Science background and a strong interest in building clean, accessible, and user-friendly web interfaces.  
-I enjoy translating design ideas into responsive, usable applications and continuously improving my skills through hands-on projects.
+I’m a Software Developer with a Computer Science background and a strong interest in building clean, accessible, and user friendly web interfaces.  
+I enjoy translating design ideas into responsive, usable applications and continuously improving my skills through hands on projects.
 
 </td>
 <td width="35%" align="right">
@@ -35,15 +35,15 @@ I enjoy translating design ideas into responsive, usable applications and contin
 ## 🎯 Experience & Interests
 - Currently developing a **Gamified Learning Management System (LMS)** with role-based access (Admin, Teacher, Student)
 - Features such as assignments, attendance, and gamification will be implemented(points & leaderboard)
-- Strong interest in **software development, usability testing, and software quality assurance**
+- Strong interest in **software development** and **user experience**
 - Academic background in **Interaction Design & Human-Computer Interaction (HCI)**
 
 ---
 
 ## 🌍 Availability
 - 📍 Based in **Norway**
-- 💼 Actively seeking **Software Developer** or **QA Engineer** opportunities
-- 🤝 Open to collaboration and open-source contributions
+- 💼 Actively seeking **Software Engineer** or **Frontend Developer** opportunities
+- 🤝 Open to collaboration and open source contributions
 
 ---
 
