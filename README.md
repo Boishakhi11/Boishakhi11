@@ -48,7 +48,7 @@ I enjoy translating design ideas into responsive, usable applications and contin
 ---
 
 ## 🌐 Portfolio
-🔗 **https://boishakhi11.github.io/my-digital-portfolio/**
+🔗 **https:[https://boishakhi.netlify.app/]**
 
 ---
 
