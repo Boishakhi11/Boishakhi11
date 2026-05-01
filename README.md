@@ -5,7 +5,7 @@
 ## Hi there 👋
 
 **Boishakhi Ghosh Mukta**  
-Software Developer | React • JavaScript • Node.js . Express.js . Tailwind CSS | Software Testing
+Software Developer | React • JavaScript • TypeScript • Node.js • Express.js • Tailwind CSS | Software Testing
 📍 Norway | Open to Frontend Developer & Software Engineer roles 🇳🇴
 
 I’m a Software Developer with a Computer Science background and a strong interest in building clean, accessible, and user friendly web interfaces.  
