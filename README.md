@@ -23,49 +23,53 @@ I'm a Software Developer with a Computer Science background and a strong interes
 
 ### Languages
 <p>
-  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" width="50" height="50" alt="HTML5" />
-  <img src="https://img.icons8.com/color/96/000000/css3.png" width="50" height="50" alt="CSS3" />
-  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="50" height="50" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/96/000000/typescript.png" width="50" height="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
 </p>
 
 ### Frontend Frameworks & Libraries
 <p>
-  <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="50" height="50" alt="React" />
-  <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="50" height="50" alt="Bootstrap" />
-  <img src="https://img.icons8.com/color/96/tailwindcss.png" width="50" height="50" alt="Tailwind CSS" />
-  <img src="https://img.icons8.com/color/96/000000/nextjs.png" width="50" height="50" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg#gh-dark-mode-only" width="50" height="50" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg#gh-light-mode-only" width="50" height="50" alt="Next.js" />
 </p>
 
 ### JavaScript Frameworks & Libraries
 <p>
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="50" height="50" alt="Node.js" />
-  <img src="https://img.icons8.com/color/96/000000/express-js.png" width="50" height="50" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" width="50" height="50" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg#gh-dark-mode-only" width="50" height="50" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="50" height="50" alt="Axios" />
-  <img src="https://img.icons8.com/officel/96/graphql.png" width="50" height="50" alt="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" height="50" alt="GraphQL" />
 </p>
 
 ### Database & Model
 <p>
-  <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="50" height="50" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="50" height="50" alt="SQL" />
-  <img src="https://img.icons8.com/color/96/000000/firebase.png" width="50" height="50" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase" />
 </p>
 
 ### Version Control & Deployment
 <p>
-  <img src="https://img.icons8.com/color/96/000000/git.png" width="50" height="50" alt="Git" />
-  <img src="https://img.icons8.com/color/96/000000/github--v1.png" width="50" height="50" alt="GitHub" />
-  <img src="https://img.icons8.com/color/96/000000/netlify.png" width="50" height="50" alt="Netlify" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50" height="50" alt="Netlify" />
 </p>
 
 ### Design & Tools
 <p>
-  <img src="https://img.icons8.com/color/96/000000/figma--v1.png" width="50" height="50" alt="Figma" />
-  <img src="https://img.icons8.com/color/96/000000/adobe-xd.png" width="50" height="50" alt="Adobe XD" />
-  <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png" width="50" height="50" alt="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="50" height="50" alt="Adobe XD" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" height="50" alt="Photoshop" />
 </p>
-
 ---
 
 ## 🎯 Experience & Interests
