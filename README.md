@@ -41,8 +41,8 @@ I'm a Software Developer with a Computer Science background and a strong interes
 <p>
   <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="50" height="50" alt="Node.js" />
   <img src="https://img.icons8.com/color/96/000000/express-js.png" width="50" height="50" alt="Express.js" />
-  <img src="https://img.icons8.com/color/96/000000/axios.png" width="50" height="50" alt="Axios" />
-  <img src="https://img.icons8.com/color/96/000000/graphql.png" width="50" height="50" alt="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="50" height="50" alt="Axios" />
+  <img src="https://img.icons8.com/officel/96/graphql.png" width="50" height="50" alt="GraphQL" />
 </p>
 
 ### Database & Model
@@ -98,7 +98,7 @@ Explore my recent projects showcasing modern web development practices, responsi
 ## 📫 Get in Touch
 
 - 📧 **Email:** [bgmukta11@gmail.com](mailto:bgmukta11@gmail.com)
-- 💼 **LinkedIn:** [Boishakhi Ghosh Mukta](https://www.linkedin.com/in/boishakhimukta/)
+- 💼 **LinkedIn:** [Boishakhi Ghosh Mukta](https://www.linkedin.com/in/boishakhi-mukta/)
 - 🔗 **GitHub:** [@boishakhi-mukta](https://github.com/boishakhi-mukta)
 
 ---
