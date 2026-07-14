@@ -98,8 +98,8 @@ Explore my recent projects showcasing modern web development practices, responsi
 ## 📫 Get in Touch
 
 - 📧 **Email:** [bgmukta11@gmail.com](mailto:bgmukta11@gmail.com)
-- 💼 **LinkedIn:** [Boishakhi Ghosh Mukta](https://www.linkedin.com/in/boishakhi-mukta/)
-- 🔗 **GitHub:** [@boishakhi-mukta](https://www.linkedin.com/in/boishakhimukta/)
+- 💼 **LinkedIn:** [Boishakhi Ghosh Mukta](https://www.linkedin.com/in/boishakhimukta/)
+- 🔗 **GitHub:** [@boishakhi-mukta](https://github.com/boishakhi-mukta)
 
 ---
 
